@@ -1,0 +1,24 @@
+Book ID: B001
+Title: The Hobbit
+Author: J.R.R. Tolkien
+Genre: Fantasy
+Year: 1937
+Status: Read
+Date Added: 08-07-2026
+
+Book ID: B002
+Title: Dune
+Author: Frank Herbert
+Genre: Science Fiction
+Year: 1965
+Status: Currently Reading
+Date Added: 08-07-2026
+
+Book ID: B003
+Title: Atomic Habits
+Author: James Clear
+Genre: Self-Help
+Year: 2018
+Status: Not Read
+Date Added: 08-07-2026
+

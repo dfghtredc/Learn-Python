@@ -1,0 +1,29 @@
+[
+    {
+        "id": "B001",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "year": "1937",
+        "status": "Read",
+        "date_added": "08-07-2026"
+    },
+    {
+        "id": "B002",
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "genre": "Science Fiction",
+        "year": "1965",
+        "status": "Currently Reading",
+        "date_added": "08-07-2026"
+    },
+    {
+        "id": "B003",
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "genre": "Self-Help",
+        "year": "2018",
+        "status": "Not Read",
+        "date_added": "08-07-2026"
+    }
+]
